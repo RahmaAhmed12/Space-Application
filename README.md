@@ -1,4 +1,4 @@
-# spacesystem
+# SpaceSystem
 
 A new Flutter project, that helps users explore the solar system with stunning visuals and interactive features. It provides detailed information about each planet in an easy and engaging way.
 
