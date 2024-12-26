@@ -1,16 +1,17 @@
 # spacesystem
 
-A new Flutter project.
+A new Flutter project, that helps users explore the solar system with stunning visuals and interactive features. It provides detailed information about each planet in an easy and engaging way.
 
-## Getting Started
+# Goals
 
-This project is a starting point for a Flutter application.
+  - Educate: Share accurate and interesting facts about the planets.
+  - Inspire: Spark curiosity about space and astronomy.
+  - Immerse: Use beautiful images and animations to captivate users.
+  - Simplify: Make the app easy for everyone to use.
+  - Explore: Help users discover unique features of each planet.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features 
+  - High-quality images and animations.
+  - Clear and accurate information.
+  - Interactive elements for better engagement.
+  - Simple and easy navigation.
